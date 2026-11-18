@@ -6,7 +6,8 @@ Markdown summaries, core frameworks, and actionable takeaways distilled from per
 
 | Title | Author | Core Theme | Status |
 | :--- | :--- | :--- | :--- |
-| [The Courage to Be Disliked](books/the-courage-to-be-disliked.md) | Ichiro Kishimi, Fumitake Koga | Adlerian psychology, separation of tasks & self-acceptance | in-progress |
+| [The Courage to Be Disliked](books/the-courage-to-be-disliked.md) | Ichiro Kishimi, Fumitake Koga | Adlerian psychology, separation of tasks & self-acceptance | completed |
+
 
 ## Repository Structure
 
