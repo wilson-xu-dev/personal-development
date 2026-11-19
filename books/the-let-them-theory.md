@@ -163,6 +163,3 @@ And I’ve reached that point with you. It’s been really fun. I love spending 
   - Keep asking yourself, how would you spend your nights and weekends while you are single, if you knew the love of your life is around the corner
 
 - Let Me priortize my own happiness, Let Me pursue my dreams with passion, Let Me set boundaries that protect my peace, Let Me choose relationships that uplift and inspire me. Let Me love myself enough to walk away when it no longer works.
-
-## Personal Reflections
-How this applies to your own life, work, or mental models.
