@@ -1,7 +1,7 @@
 ---
 title: "The Let Them Theory"
 author: "Mel Robbins"
-status: in-progress
+status: completed
 ---
 
 ## Core Thesis
@@ -18,7 +18,7 @@ status: in-progress
 - The theory isn't about superiority but balance - giving others space to live their lives whilst giving yourself the same grace. Your happiness depends on your actions, not others' behaviour, and true empowerment comes from focusing your energy on what you can actually control.
 
 ### Key Idea 2: Emotion is a body response to stress, you can reset and control it
-- Other people are going to do things all day that bother you, annoy you, or stress you out. When you allow someone else’s behavior to stress you out, you let it dictate your mood, waste your time and energy, lose your focus and motivation, instead of being focused and feel happier.
+- Other people will bother you, annoy you, or stress you out. When you allow someone else’s behavior to stress you out, you let it dictate your mood, waste your time and energy, lose your focus and motivation, when you could be focused and feel happier.
 
 - Your body’s stress response is automatic. You will feel anger, frustration, agitation. You can’t control the emotions that rise up inside of you. But instead of reacting and doing something you will regret, you can reset your stress response so you can be in control of your emotions.
 
@@ -29,20 +29,20 @@ status: in-progress
 - The let them theory doesn't mean avoiding difficult conversations or staying silent. It doesn't mean letting people walk all over you. Nor does it mean you have to pick up after people. You get to choose what impacts you and to what extent. You get to choose what you participate in and what you don't. You get to choose when a job or relationship or issue is worth fighting for, and when its time to leave. You get to choose and that is why you are always in control of what happens.
 
 ### Key Idea 3: Fearing other people's opinion is draining
-- You move through life with other people's opinions as your road map, forced to anticipate what other people opinions, afraid to look bad if people see the real you; it makes you overthink, procrastinate, self-doubt and self-reject your choices, paralyses you with perfectionism, drains your time and energy.
+- You move through life with other people's opinions as your roadmap, forced to anticipate what other people opinions, afraid to look bad if people see the real you; it makes you overthink, procrastinate, self-doubt and self-reject your choices, paralyses you with perfectionism, drains your time and energy.
 
 - Even if you please everyone, it won’t guarantee that other people will think a positive thought, and you will feel even more resentful, depleted and feeling like nothing you do was ever good enough.
 
 - Whatever it is that you plan to do with your life, other people are going to have an opinion about it; allowing your fear of people's opinion stop you from doing what you want to do; Let them think what they want, Let Me live my life in a way that makes me proud and aligned with my values. Do not allow other people's opinion ruin me from living my life
 
-- With family, it is harder to Let Them because there is little distance from them. They know you the longest, and want more for you and for you to be happier, but are more blunt and pushy  and can very easily cross the line from caring to controlling. 
+- With family, it is harder to Let Them because there is little distance from them. They know you the longest, and want more for you and for you to be happier, but are more blunt, pushy and can very easily cross the line from caring to controlling. 
 
 - Being part of the family system, any changes you make will send either positive or negative waves through the entire system.; Let them disagree with the way you are living your life to allow acceptance and understanding, try to understand their perspectives and be understanding and compassionate to deepen the connection.
 
 ### Key Idea 4: Dealing with someone else's emotional reaction
 - Some adults throw tantrums because they were not taught to process human emotions in a healthy way growing up; By allowing their emotional immaturity to drive your decisions. you say yes when you really want to say no. This is why it’s hard for you to set boundaries. This is why you walk on eggshells when certain people are in a bad mood
 
-- It feels easier to give in, but in the long run, you lose a crucial piece of yourself. When every interaction leaves you emotionally exhausted, ask yourself this: Why are you always the one who has to adjust? Why do you take make someone happy —at the expense of your own?
+- It feels easier to give in, but in the long run, you lose a crucial piece of yourself. When every interaction leaves you emotionally exhausted, ask yourself this: Why are you always the one who has to adjust? Why do you take make someone happy — at the expense of your own?
 
 - Understand that emotions are just a burst of chemicals in your brain that rises up and falls quickly if you don't react to them, so let them rise and fall without doing anything. Even if other's emotions affect you, you can always choose how to response.
 
@@ -62,7 +62,6 @@ status: in-progress
 - Jealousy can be perceived as an invitation from your future self to show you what is possible (and not to feel inferior). Let me be inspired by what others did and turn it into action.
 
 ### Key Idea 6: Accept that friendships can drift
-
 - When you were little, you were a part of this big group of people experiencing life together, planned by parents and society. As everyone scatters from theirs 20s, the expectations of friendship leads to disconnection, isolation and uncertainty in approaching new or existing friendships.
 
 - Adult friendships drift away because one or more of these factors are missing: proximity (distance), timing (life chapter), energy (chemistry); We obsess over what is wrong and blaming others when friendship drift.
@@ -106,9 +105,9 @@ Apologise, then ask open-ended questions
 
 - Back off and stop pressuring them. Let Them be. Space allows them to come to the idea for themselves, Time allows the tension to transform into motivation.
 
-- Celebrate any* progress you see immediately* after you see them doing something about their behaviour. It makes them feel good
+- Celebrate any progress you see immediately after you see them doing something about their behaviour. It makes them feel good
 
-### Key Idea 8: People who are struggling must face the consequences of their actions
+### Key Idea 8: People who are struggling must heal themselves
 - People who are struggling tend to hide it from others. They feel like a burden to others so they don't ask for help or open up about what is happening. 
 
 - As much as you may want to make someone's pain go away, you cannot make them heal. The more you try to rescue someone from their problems, the more likely they will continue to drown in them. 
@@ -122,7 +121,7 @@ Apologise, then ask open-ended questions
 ### Key Idea 9: A healthy relationship is mutual
 - Dating is hard because everybody is so scared to be alone, so desperate to find somebody, They chase love, and end up compromising on their values, standards, let others dictate their moods and affect their self-esteem.
 
-- We convincing ourselves that someone likes us, when we like them but also feel confused whether they like us back. We justify their bad behaviour and create fantasies in our heads to avoid breaking up. We chase the potential and ignore reality, hoping they will fall for us if we keep initiating. We change ourselves to "make it work" to chase something that isn't the right fit.
+- We convince ourselves that someone likes us, when we like them but also feel confused whether they like us back. We justify their bad behaviour and create fantasies in our heads to avoid breaking up. We chase the potential and ignore reality, hoping they will fall for us if we keep initiating. We change ourselves to "make it work" to chase something that isn't the right fit.
 
 - People's behaviour tells you exactly where you stand in their life. You are either a priority or you are not. Let Them reveal who they truly are through their behaviour. Let Them ghost me. Let Me be honest to myself and admit things are going nowhere. Let Me remind myself that everything in a healthy relationship is mutual. Let Me move on.
 
@@ -139,7 +138,9 @@ I value my time and energy, and I don’t want to put time and energy into spend
 And I’ve reached that point with you. It’s been really fun. I love spending time with you. But I only want to invest more time and energy if we’re going to go to the next level. And if you don’t see the same thing, this has been great. But I just know myself and I need to choose to invest the time that I have with people who want the same things that I want
 ```
 
-- Sometimes people you choose aren't going to choose you back. If they tell you that this is all they will commit to you, Let Them. Ask yourself if this is what you are willing to accept, why do you want to be with somebody who won't commit to you or want the same things you want? Saying no to the wrong situations is how you find the right person for yourself. Let Me end a relationship with someone who won’t commit. Let Me trust this is another step in the direction of choosing the love I deserve. Let Me stop chasing the potential of this and see the reality. Let Me believe that I just took one step closer to the right person. Let Me take my power back, because the love of my life is right around the corner
+- Sometimes people you choose aren't going to choose you back. If they tell you that this is all they will commit to you, Let Them. Ask yourself if this is what you are willing to accept, why do you want to be with somebody who won't commit to you or want the same things you want? 
+
+- Saying no to the wrong situations is how you find the right person for yourself. Let Me end a relationship with someone who won’t commit. Let Me trust this is another step in the direction of choosing the love I deserve. Let Me stop chasing the potential of this and see the reality. Let Me believe that I just took one step closer to the right person. Let Me take my power back, because the love of my life is right around the corner
 
 ### Key Idea 11: Ending a relationship opens up your life to new ones
 - Every relationship that worked has had two important things present:
